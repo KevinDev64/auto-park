@@ -1,2 +1,2 @@
-# auto-park
-The function of autopark for Arduino UNO
+# AUTO-PARK
+The function of autopark for Arduino UNO project
